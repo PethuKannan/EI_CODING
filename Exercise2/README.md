@@ -1,7 +1,7 @@
 
 # Console Chat Application (Java)
 
-## 📌 Overview
+## Overview
 This is a **console-based real-time chat application simulation** built in Java as part of Exercise 2.
 
 ### Features Implemented
@@ -19,7 +19,7 @@ This is a **console-based real-time chat application simulation** built in Java 
 
 ---
 
-## ⚙️ Project Structure
+##  Project Structure
 
 ConsoleChatAppProject/
 ├── ConsoleChatApp.java # Main entry point
@@ -36,7 +36,7 @@ ConsoleChatAppProject/
 
 ---
 
-## 🚀 How to Compile & Run
+##  How to Compile & Run
 
 ### Step 1: Navigate to the project folder
 ```sh
