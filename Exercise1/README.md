@@ -21,8 +21,7 @@ This folder contains Java implementations demonstrating **six software design pa
 ## How to Run
 
 ### From the root folder
-Compile all Java files:
+Compile and run all Java files:
 ```bash
 javac behavioural/*/*.java creational/*/*.java structural/*/*.java Hello.java
-```bash
 java Hello
