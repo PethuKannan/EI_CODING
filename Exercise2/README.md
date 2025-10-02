@@ -17,22 +17,6 @@ This is a **console-based real-time chat application simulation** built in Java 
 - **Adapter Pattern** → Different communication adapters (`WebSocketAdapter`, `HttpAdapter`)  
 - **OOP & SOLID** principles applied  
 
----
-
-##  Project Structure
-
-ConsoleChatAppProject/
-├── ConsoleChatApp.java # Main entry point
-├── Message.java # Message model
-├── Observer.java # Observer interface
-├── Subject.java # Subject interface
-├── User.java # User class (Observer)
-├── ChatRoom.java # ChatRoom (Subject implementation)
-├── ChatRoomManager.java # Singleton manager for rooms
-├── ClientAdapter.java # Adapter interface
-├── WebSocketAdapter.java # WebSocket-style adapter
-└── HttpAdapter.java # HTTP-style adapter
-
 
 ---
 
